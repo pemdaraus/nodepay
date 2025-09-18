@@ -8,3 +8,5 @@ http://167.160.180.203:6754:kqcbfycm:evsact4v5plj
 http://154.36.110.199:6853:kqcbfycm:evsact4v5plj
 http://173.0.9.70:5653:kqcbfycm:evsact4v5plj
 http://173.0.9.209:5792:kqcbfycm:evsact4v5plj
+echo "192.168.1.100:8080" >> nodepay/local_proxies.txt
+echo "192.168.1.101:9090" >> nodepay/local_proxies.txt
